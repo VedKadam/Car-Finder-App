@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/github.io/Car-Finder-App/static/css/main.a32638ad.css",
+    "main.js": "/github.io/Car-Finder-App/static/js/main.6eec4a05.js",
+    "static/js/787.53dd11dc.chunk.js": "/github.io/Car-Finder-App/static/js/787.53dd11dc.chunk.js",
+    "static/media/chevy.png": "/github.io/Car-Finder-App/static/media/chevy.f44582563608644f6b98.png",
+    "static/media/volvo.jpg": "/github.io/Car-Finder-App/static/media/volvo.ecc5cdf741f536b8ede7.jpg",
+    "static/media/subaru.png": "/github.io/Car-Finder-App/static/media/subaru.5bb5b0ca671212c75fd7.png",
+    "static/media/maybach.png": "/github.io/Car-Finder-App/static/media/maybach.b58c551c8e26e60567ae.png",
+    "static/media/nissan.png": "/github.io/Car-Finder-App/static/media/nissan.c965109b21e1a03c1723.png",
+    "static/media/bmw.png": "/github.io/Car-Finder-App/static/media/bmw.488fcd823352d818344d.png",
+    "static/media/lexus.png": "/github.io/Car-Finder-App/static/media/lexus.92110560cf3ef17a7306.png",
+    "static/media/Majestic_PU.ttf": "/github.io/Car-Finder-App/static/media/Majestic_PU.1fa35ea1bb2061877694.ttf",
+    "static/media/jaguar.png": "/github.io/Car-Finder-App/static/media/jaguar.7cac98a6e24183eafba7.png",
+    "static/media/vw.jpg": "/github.io/Car-Finder-App/static/media/vw.c1317a18f71467e87d9f.jpg",
+    "static/media/bugatti.png": "/github.io/Car-Finder-App/static/media/bugatti.01f83ee38b9f76da584a.png",
+    "static/media/suzuki.png": "/github.io/Car-Finder-App/static/media/suzuki.4a9b44b39317b949460b.png",
+    "static/media/kia.jpg": "/github.io/Car-Finder-App/static/media/kia.1790ba0f9c0fb7a3f263.jpg",
+    "static/media/tesla.png": "/github.io/Car-Finder-App/static/media/tesla.a7f4d496b3479a3231bc.png",
+    "static/media/Sygma.ttf": "/github.io/Car-Finder-App/static/media/Sygma.116326201789abd63fcc.ttf",
+    "static/media/audi.jpg": "/github.io/Car-Finder-App/static/media/audi.f9639c6e1e2f9ab931ad.jpg",
+    "static/media/toyota.jpg": "/github.io/Car-Finder-App/static/media/toyota.f346dc89a3f078d21ffe.jpg",
+    "static/media/honda.jpg": "/github.io/Car-Finder-App/static/media/honda.1a3df6cc07f30e300841.jpg",
+    "static/media/gmc.png": "/github.io/Car-Finder-App/static/media/gmc.b14183761612a154fcb5.png",
+    "static/media/cover2.jpeg": "/github.io/Car-Finder-App/static/media/cover2.d17ce738bcb42c7e83fc.jpeg",
+    "static/media/jeep.png": "/github.io/Car-Finder-App/static/media/jeep.3d32985352e2d8c8e3d2.png",
+    "static/media/ferrari.jpg": "/github.io/Car-Finder-App/static/media/ferrari.7cc39ef55cde3ba7b12c.jpg",
+    "static/media/hyundai.png": "/github.io/Car-Finder-App/static/media/hyundai.8237f62d185e0d56b1cf.png",
+    "static/media/porsche.jpg": "/github.io/Car-Finder-App/static/media/porsche.ebc4197e7876c603b0ed.jpg",
+    "static/media/lmb.jpg": "/github.io/Car-Finder-App/static/media/lmb.9a909f8b77821c0f6d38.jpg",
+    "static/media/logo.svg": "/github.io/Car-Finder-App/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/github.io/Car-Finder-App/index.html",
+    "main.a32638ad.css.map": "/github.io/Car-Finder-App/static/css/main.a32638ad.css.map",
+    "main.6eec4a05.js.map": "/github.io/Car-Finder-App/static/js/main.6eec4a05.js.map",
+    "787.53dd11dc.chunk.js.map": "/github.io/Car-Finder-App/static/js/787.53dd11dc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a32638ad.css",
+    "static/js/main.6eec4a05.js"
+  ]
+}
