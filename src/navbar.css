@@ -1,0 +1,52 @@
+/* navbar.css */
+@font-face {
+    font-family: 'Majestic';
+    src: url('./Majestic_PU.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+.nav {
+    background-color: black;
+    display: flex;
+    align-items: center;
+    padding: 1%;
+}
+
+.nav a {
+    color: white;
+    padding: 1%;
+    text-decoration: none;
+    font-size: 20px;
+}
+
+.nav a:hover {
+    color: #E2CFEA;
+}
+
+.logo-link {
+    margin-right: 20px;
+    font-family: 'Majestic', sans-serif;
+    font-size: 24px;
+    text-decoration: none;
+}
+
+
+/* Add your existing styles */
+
+.logout-button {
+    padding: 8px 16px;
+    background-color: #FF5733;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+    margin-left: 10px; /* Add some margin to separate from other links */
+}
+
+.logout-button:hover {
+    background-color: #E64A19;
+}
+
+

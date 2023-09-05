@@ -1,0 +1,116 @@
+/* car.css */
+
+body {
+    background-color: #6247AA;
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+    color: white;
+}
+
+@font-face {
+    font-family: 'Majestic';
+    src: url('./Majestic_PU.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+.tit{
+    margin-right: 20px;
+    font-family: 'Majestic', sans-serif;
+    font-size: 40px;
+    text-decoration: none;
+    color: #6247AA;
+}
+#em{
+    color: #6247AA;
+}
+.center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    flex-direction: column;
+}
+
+.search {
+    margin: 20px 0;
+    text-align: center;
+    background-color: #6247AA;
+    padding: 10px;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    width: 40%;
+}
+
+.search input[type="text"] {
+    padding: 8px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    margin-right: 10px;
+}
+
+.search input[type="submit"] {
+    padding: 8px 15px;
+    background-color: #6247AA;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.search input[type="submit"]:hover {
+    background-color: #A06cd5;
+}
+
+.container {
+    border: 2px solid white;
+    width: 15%;
+    margin-left: 5%; /* Adjust this margin as needed */
+    padding: 2%;
+    background-color: #E2CFEA;
+    color: black;
+    border-radius: 40px;
+    float: left; /* Float the container to the left */
+}
+.fuel {
+	margin-right: 60%;
+}
+.gear {
+	margin-right: 60%;
+}
+.cylinders {
+	margin-right: 60%;
+}
+
+.car-grid {
+    	display: grid;
+    	grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+    	gap: 30px;
+    	
+    	justify-content: center;
+    	margin-left: 30%; /* Adjust this margin to create space between container and car-grid */
+	margin-right: 10%;
+	padding: 2%;
+	color: black;
+}
+
+.car-card {
+	    border: 1px solid black;
+	    padding: 10px;
+	    text-align: center;
+	    width: 90%;
+		background-color: #e2cfea;
+}
+
+.car-card img {
+    	width: 50%;
+    	height: auto;
+    	object-fit: cover;
+    	margin-bottom: 10px;
+}
+
+.car-card h3 {
+    	margin: 10px 0;
+    	font-size: 18px;
+}
+	

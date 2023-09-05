@@ -1,0 +1,166 @@
+body {
+    background-color: #e2cfea;
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+}
+
+@font-face {
+    font-family: 'Sygma';
+    src: url('./Sygma.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+}
+
+.tag-line {
+    color:  hsla(238, 100%, 71%, 1);;
+    font-family: 'Sygma';
+    font-weight: bold;
+    text-align: center;
+    justify-content: center;
+    height: 10vh;
+    padding-left: 60px;
+    font-size: 40px;
+}
+
+
+.hero {
+    position: relative; /* Set position to relative */
+    background-image: url('./cover2.jpeg'); /* Replace with the path to your image */
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: #fff;
+    padding: 50px 0;
+    text-align: center;
+    height: 75vh;
+}
+
+
+
+/* The rest of your existing .hero styles */
+
+
+
+
+.subheadline {
+    font-size: 18px;
+    line-height: 1.6;
+    text-align: center;
+    white-space: nowrap;
+    color: #696eff;
+    overflow: hidden;
+    border-right: 0.15em solid white;
+    animation: typing 5s steps(30), blink-caret 0.60s step-end infinite;
+    width: 50%;
+    height: 50%;
+    margin: 0 auto;
+}
+
+@keyframes typing {
+    from {
+        width: 0;
+    }
+    to {
+        width: 50%;
+    }
+}
+
+@keyframes blink-caret {
+    from, to {
+        border-color: transparent;
+    }
+    50% {
+        border-color: white;
+    }
+}
+
+.cta-button {
+    margin-top: 20px; /* Add margin to the top of the button */
+    padding: 12px 30px;
+    font-size: 18px;
+    background-color: #6247AA;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    text-decoration: none;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+.cta-button:hover {
+    background-color: #522b8f;
+}
+
+
+.features-how-it-works {
+    display: flex;
+    justify-content: space-between;
+
+}
+
+.features,
+.how-it-works {
+    flex-basis: calc(50% - 20px);
+    padding: 20px;
+    background-color: #f4f0e0;
+    text-align: center;
+    color: black;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.features h2,
+.how-it-works h2 {
+    font-size: 24px;
+    margin-bottom: 10px;
+}
+
+.feature-list {
+    list-style: none;
+    padding: 0;
+}
+
+.feature-list li {
+    margin: 10px 0;
+    font-size: 18px;
+}
+
+.features i,
+.how-it-works i {
+    font-size: 36px;
+    margin-bottom: 10px;
+}
+
+/* Font Awesome Icons Styles */
+.fas {
+    font-family: "Font Awesome 5 Free";
+}
+
+.fas.fa-car:before {
+    content: "\f1b9";
+}
+
+.fas.fa-cogs:before {
+    content: "\f085";
+}
+
+
+
+
+/* Contact Section */
+.contact {
+    background-color: #6247AA;
+    color: #fff;
+    padding: 60px;
+    text-align: center;
+}
+
+.contact h2 {
+    margin: 0 0 20px;
+    font-size: 24px;
+}
+
+.contact p {
+    margin: 10px;
+    font-size: 18px;
+}
